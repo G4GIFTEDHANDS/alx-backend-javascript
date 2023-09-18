@@ -6,7 +6,6 @@ Back-end JavaScript ES6 NodeJS ExpressJS
 -   By: Johann Kerbrat, Engineering Manager at Uber Works
 -   Weight: 1
 
-![image](https://github.com/G4GIFTEDHANDS/alx-backend-javascript/assets/106776383/eb2a82fc-7da6-42b6-b5fc-0e79c1b9022c)
 Resources
 ---------
 
